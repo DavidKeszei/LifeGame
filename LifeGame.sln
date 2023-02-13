@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LifeGame", "LifeGame\LifeGame.pyproj", "{C64385A2-A4BE-498C-867B-6C37B3C0C912}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Buffers", "Buffers\Buffers.vcxproj", "{752426E1-7260-4EC3-AEF5-61A0B082EAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C64385A2-A4BE-498C-867B-6C37B3C0C912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64385A2-A4BE-498C-867B-6C37B3C0C912}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C64385A2-A4BE-498C-867B-6C37B3C0C912}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C64385A2-A4BE-498C-867B-6C37B3C0C912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64385A2-A4BE-498C-867B-6C37B3C0C912}.Release|x64.ActiveCfg = Release|Any CPU
+		{C64385A2-A4BE-498C-867B-6C37B3C0C912}.Release|x86.ActiveCfg = Release|Any CPU
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Debug|Any CPU.Build.0 = Debug|x64
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Debug|x64.ActiveCfg = Debug|x64
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Debug|x64.Build.0 = Debug|x64
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Debug|x86.ActiveCfg = Debug|Win32
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Debug|x86.Build.0 = Debug|Win32
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Release|Any CPU.ActiveCfg = Release|x64
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Release|Any CPU.Build.0 = Release|x64
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Release|x64.ActiveCfg = Release|x64
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Release|x64.Build.0 = Release|x64
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Release|x86.ActiveCfg = Release|Win32
+		{752426E1-7260-4EC3-AEF5-61A0B082EAFC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48A7552B-98DC-4A61-8FB2-EE3A2D486173}
+	EndGlobalSection
+EndGlobal

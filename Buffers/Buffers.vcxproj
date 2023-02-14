@@ -24,6 +24,7 @@
     <ProjectGuid>{752426e1-7260-4ec3-aef5-61a0b082eafc}</ProjectGuid>
     <RootNamespace>Buffers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>ConsoleBufferDrawer</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
